@@ -1,15 +1,20 @@
-/* styles.css */
-
-/* Style the <h1> element */
+/* Select an HTML element by its tag name */
 h1 {
   color: blue;
   font-size: 24px;
   font-family: Arial, sans-serif;
 }
 
-/* Style the <p> element */
-p {
+/* Select an HTML element by its class */
+.my-paragraph {
   color: green;
   font-size: 16px;
   font-family: Helvetica, sans-serif;
+}
+
+/* Select an HTML element by its ID */
+#my-heading {
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
 }

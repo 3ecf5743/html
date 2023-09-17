@@ -1,0 +1,15 @@
+/* styles.css */
+
+/* Style the <h1> element */
+h1 {
+  color: blue;
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+}
+
+/* Style the <p> element */
+p {
+  color: green;
+  font-size: 16px;
+  font-family: Helvetica, sans-serif;
+}
